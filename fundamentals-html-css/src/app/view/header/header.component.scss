@@ -1,0 +1,19 @@
+:host {
+  display: flex;
+  height: 150px;
+  align-items: center;
+  justify-content: space-between;
+  background-color: dodgerblue;
+  padding-left: 100px;
+  padding-right: 100px;
+}
+
+.links a {
+  color: white;
+  text-decoration: none;
+  justify-content: space-between;
+}
+
+h2 {
+  color: white;
+}

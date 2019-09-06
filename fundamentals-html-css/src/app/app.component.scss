@@ -1,0 +1,8 @@
+:host {
+  display: flex;
+  flex-direction: column;
+}
+
+.content {
+  min-height: calc(100vh  - 150px - 150px);
+}
